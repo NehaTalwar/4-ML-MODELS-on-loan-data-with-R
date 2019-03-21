@@ -1,4 +1,4 @@
-# ENSEMBLE-ON-4-MODELS-IN-R
+# ENSEMBLE MACHINE LEARNING MODEL on loan data using R
 Ensemble Model in R to deduce if isolated model does better or a combo of models using the loan data to predict if the target variable Loan_Status will be a Yes or a No .
 Create 4 models using the caret package in R, these models are Decision tree , Random forest , Knn , GLM .
 Predict the accuracy and kappa of each model and calculate each model's probability.
